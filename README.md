@@ -5,18 +5,8 @@
 <!-- ANIMATED CUTE TYPING POINTS -->
 <img src="https://readme-typing-svg.demolab.com?font=Fredoka+One&weight=600&size=21&duration=2500&pause=1000&color=48CAE4&center=true&vCenter=true&width=650&lines=Feed+Dorayaki+%26+Boost+Happiness+🥞;Fly+Across+Screen+with+Take-Copter+🚁;Anywhere+Door+Instant+Teleportation+🚪;Unlock+4D+Magic+Gadgets+%26+Mini-Games+🕹️" alt="Doraemon Features" />
 <br/><br/>
-<!-- CUTE BLUE & ICE BADGES -->
-<a href="https://developer.mozilla.org/en-US/docs/Web/HTML">
-  <img src="https://img.shields.io/badge/HTML5-Canvas_Game-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"/>
-</a>
-&nbsp;
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript">
-  <img src="https://img.shields.io/badge/JavaScript-Interactive_Pet-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
-</a>
-&nbsp;
-<img src="https://img.shields.io/badge/Companion-Virtual_Pet-0077B6?style=for-the-badge" alt="Virtual Pet"/>
-&nbsp;
-<img src="https://img.shields.io/badge/Gadgets-4D_Magic_Pocket-00B4D8?style=for-the-badge" alt="4D Gadgets"/>
+<!-- ANIMATED FEATURES TYPING (ONE BY ONE WITH POINTS) -->
+<img src="https://readme-typing-svg.demolab.com?font=Fredoka+One&weight=600&size=20&duration=2500&pause=1000&color=48CAE4&center=true&vCenter=true&width=650&lines=%E2%9C%A6+%F0%9F%A5%9E+Feed+Dorayaki+%26+Boost+Happiness;%E2%9C%A6+%F0%9F%9A%81+Fly+Across+Screen+with+Take-Copter;%E2%9C%A6+%F0%9F%9A%AA+Anywhere+Door+Instant+Teleportation;%E2%9C%A6+%F0%9F%95%B9%EF%B8%8F+Unlock+4D+Magic+Gadgets+%26+Mini-Games" alt="Doraemon Features" />
 <br/><br/>
 <!-- BIG ACTION BUTTONS -->
 <a href="https://vidushisen.github.io/My-Virtual-Doraemon-/" target="_blank">
