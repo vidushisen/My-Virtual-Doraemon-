@@ -3,7 +3,7 @@
 <img src="https://capsule-render.vercel.app/api?type=rounded&color=0b1a2b&stroke=00A0E9&strokeWidth=2&height=160&section=header&text=%E2%9C%A6%20Welcome%20to%20Virtual%20Doraemon%20%E2%9C%A6&fontSize=40&fontColor=48CAE4&fontAlignY=50" width="100%"/>
 <br/><br/>
 <!-- ANIMATED CUTE TYPING POINTS -->
-<img src="https://readme-typing-svg.demolab.com?font=Fredoka+One&weight=600&size=21&duration=2500&pause=1000&color=48CAE4&center=true&vCenter=true&width=650&lines=Feed+Dorayaki+%26+Boost+Happiness+🥞;Fly+Across+Screen+with+Take-Copter+🚁;Anywhere+Door+Instant+Teleportation+🚪;Unlock+4D+Magic+Gadgets+%26+Mini-Games+🕹️" alt="Doraemon Features" />
+<img src="https://readme-typing-svg.demolab.com?font=Fredoka+One&weight=600&size=21&duration=2500&pause=1000&color=48CAE4&center=true&vCenter=true&width=650&lines=Feed+Dorayaki+%26+Boost+Happiness+🥞;Fly+Across+Screen+with+Take-Copter+🚁;Anywhere+Door+Instant+Teleportation+🚪;Unlock+4D+Magic+Gadgets+%26+Mini-Games+🕹️" 
 <br/><br/>
 <!-- ANIMATED FEATURES TYPING (ONE BY ONE WITH POINTS) -->
 <img src="https://readme-typing-svg.demolab.com?font=Fredoka+One&weight=600&size=20&duration=2500&pause=1000&color=48CAE4&center=true&vCenter=true&width=650&lines=%E2%9C%A6+%F0%9F%A5%9E+Feed+Dorayaki+%26+Boost+Happiness;%E2%9C%A6+%F0%9F%9A%81+Fly+Across+Screen+with+Take-Copter;%E2%9C%A6+%F0%9F%9A%AA+Anywhere+Door+Instant+Teleportation;%E2%9C%A6+%F0%9F%95%B9%EF%B8%8F+Unlock+4D+Magic+Gadgets+%26+Mini-Games" alt="Doraemon Features" />
