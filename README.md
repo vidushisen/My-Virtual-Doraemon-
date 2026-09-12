@@ -15,10 +15,8 @@
 <a href="https://github.com/vidushisen/My-Virtual-Doraemon-/blob/main/LICENSE">
   <img src="https://img.shields.io/badge/License-MIT-222222?style=for-the-badge" alt="License"/>
 </a>
-<br/><br/>
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/ocean.png" width="100%" alt="Divider"/>
 </div>
-<br/>
+<hr/>
 <div align="center">
 💙 About The Project 💙
 </div>
@@ -26,8 +24,8 @@
 ** My Virtual Doraemon ** is a fun, nostalgic, interactive browser companion that brings the legendary robotic cat from the 22nd century directly to your screen!
 Crafted with pure HTML, modern CSS styling, and dynamic JavaScript, this project features fluid expressions, playful animations, and delightful gadget interactions designed to bring joy and nostalgia to fans of all ages.
 <br/>
+<hr/>
 <div align="center">
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/ocean.png" width="100%" alt="Divider"/>
 ⚡ Key Features ⚡
 </div>
 <br/>
@@ -37,8 +35,8 @@ Crafted with pure HTML, modern CSS styling, and dynamic JavaScript, this project
 - 📱 Cross-Device Ready: Perfectly centered and responsive on both mobile and desktop screens.
 - 🚀 Zero Dependencies: Pure vanilla web code that loads instantly in any modern browser.
 <br/>
+<hr/>
 <div align="center">
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/ocean.png" width="100%" alt="Divider"/>
 🛠️ Tech Stack 🛠️
 </div>
 <br/>
@@ -57,12 +55,12 @@ Crafted with pure HTML, modern CSS styling, and dynamic JavaScript, this project
 </a>
 </div>
 <br/><br/>
+<hr/>
 <div align="center">
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/ocean.png" width="100%" alt="Divider"/>
 🚀 Quick Play (5 Seconds) 🚀
 </div>
 <br/>
-'''bash
+```bash
  1. Clone repository
 git clone https://github.com/vidushisen/My-Virtual-Doraemon-.git
  2. Enter folder
@@ -70,8 +68,8 @@ cd My-Virtual-Doraemon-
  3. Open in any browser!
 ```
 <br/>
+<hr/>
 <div align="center">
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/ocean.png" width="100%" alt="Divider"/>
 ⭐ Support & Feedback ⭐
 <br/>
 <font color="#48CAE4"><b>⭐ If you like this project, please consider giving it a Star! ⭐</b></font>
